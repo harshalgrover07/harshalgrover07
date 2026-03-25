@@ -1,16 +1,18 @@
-## Hi there 👋
+# 💫 About Me:
+# Hi 👋, I'm Harshal Grover<br><br>🚀 Data Analyst | Aspiring Data Scientist | GenAI Enthusiast  <br><br>📍 New Delhi, India  <br>📧 harshalgrover07@gmail.com  <br>🔗 LinkedIn: https://www.linkedin.com/in/harshal-grover-b04430296/  <br>💻 GitHub: https://github.com/harshalgrover07  <br><br>---<br><br>## 👨‍💻 About Me<br>I am a Data Analyst skilled in Python and SQL with hands-on experience in Exploratory Data Analysis (EDA), machine learning, and Generative AI applications.  <br><br>I specialize in transforming raw data into meaningful insights and building intelligent systems using LLMs, RAG pipelines, and modern data tools.  <br><br>---<br><br>## ⚡ What I Do<br>- 📊 Perform Exploratory Data Analysis (EDA) to uncover patterns, trends, and insights  <br>- 📈 Build dashboards and visualizations using Power BI, Tableau, and Excel  <br>- 🤖 Develop machine learning models for prediction and classification  <br>- 🧠 Build Generative AI applications using RAG, NLP, and LLM workflows  <br>- 🛠 Design end-to-end data-driven solutions  <br><br>---<br><br>## 🧰 Tech Stack<br><br>### 👨‍💻 Languages & Libraries<br>Python, Pandas, NumPy, Scikit-learn, XGBoost, Statsmodels  <br><br>### 📊 Data Visualization<br>Power BI, Tableau, Matplotlib, Seaborn, Excel  <br><br>### 🧠 Machine Learning<br>Classification, Regression, Clustering, Feature Engineering, Model Evaluation, Hyperparameter Tuning  <br><br>### 🤖 Generative AI<br>Prompt Engineering, RAG, Transformers, NLP, FAISS  <br><br>### ☁️ Cloud & Databases<br>AWS (S3, Redshift, SageMaker), MySQL  <br><br>### 🛠 Tools<br>Git, GitHub, Jupyter Notebook, VS Code  <br><br>---<br><br>## 🚀 Featured Projects<br><br>### 🔹 Hotel Booking Cancellation Prediction<br>- Performed in-depth EDA to identify key factors influencing booking cancellations  <br>- Built and compared Logistic Regression, Decision Tree, Random Forest, and XGBoost models  <br>- Achieved **85% accuracy** with strong precision-recall balance  <br>- Developed preprocessing pipeline with feature engineering  <br><br>---<br><br>### 🔹 AI Document Chatbot (RAG-Based)<br>- Built a Retrieval-Augmented Generation (RAG) chatbot for semantic document Q&A  <br>- Implemented text extraction, chunking, embeddings, and FAISS vector search  <br>- Integrated Google Gemini for context-aware responses  <br>- Developed interactive Streamlit UI with chat history  <br><br>---<br><br>### 🔹 Movie Recommendation System (NLP)<br>- Built content-based recommendation system using NLP feature representations  <br>- Applied similarity matrix to generate personalized recommendations  <br>- Designed Streamlit interface with dynamic inputs  <br>- Captured semantic relationships between movie attributes  <br><br>---<br><br>## 📜 Certifications<br>- Microsoft PL-300: Power BI Data Analyst  <br>- Certified Ethical Hacker (CEH)  <br>- Digital Forensics Specialist  <br>- Cybersecurity Specialist  <br><br>---<br><br>## 🎓 Education<br>- 🎓 PGP in Data Science (GenAI Specialization) – Great Lakes (2025 – Present)  <br>- 🎓 BCA – GGSIPU (CGPA: 7.44)  <br><br>---<br><br>## 📈 Currently Learning<br>- Advanced Generative AI (Agents, Multi-Agent Systems)  <br>- MLOps & Model Deployment  <br>- Deep Learning  <br><br>---<br><br>## 🤝 Let's Connect<br>- 🔗 LinkedIn: https://www.linkedin.com/in/harshal-grover-b04430296/  <br>- 💻 GitHub: https://github.com/harshalgrover07  <br><br>---<br><br>⭐ *"Turning data into insights and ideas into intelligent systems."*
 
-<!--
-**harshalgrover07/harshalgrover07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/harshal-grover-b04430296/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:harshalgrover07@gmail.com) 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# 💻 Tech Stack:
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=harshalgrover07&theme=dark&hide_border=true&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=harshalgrover07&theme=dark&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=harshalgrover07&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+
+---
+[![](https://visitcount.itsvg.in/api?id=harshalgrover07&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
